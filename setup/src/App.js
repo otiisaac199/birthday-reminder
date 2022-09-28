@@ -13,6 +13,7 @@ function App() {
       </section>
     </main>
   );
+  return <main>App</main>;
 }
 
 export default App;
